@@ -3,6 +3,7 @@ dist/
 *.log
 .DS_Store
 .vscode/
+.netlify/
 
 # Brand source materials are kept locally, outside the published repository.
 Marjana Brand Logotypes/

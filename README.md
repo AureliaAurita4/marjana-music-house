@@ -15,4 +15,4 @@ npm run dev
 npm run build
 ```
 
-Сайт автоматически публикуется в GitHub Pages после push в ветку `main`.
+Сайт автоматически публикуется в Netlify после push в ветку `main`.
